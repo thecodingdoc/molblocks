@@ -6,7 +6,7 @@ described in:
 
 molBLOCKS: decomposing small molecule sets and uncovering enriched fragments
 Dario Ghersi and Mona Singh
-submitted
+Bioinformatics, 2014 Jul 15;30(14):2081-3. doi: 10.1093/bioinformatics/btu173
 
 If you use this program, please cite the paper.
 
