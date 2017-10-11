@@ -1,0 +1,9 @@
+S1[C@H]2N(C(=O)[C@H]2NC(=O)CC#N)C(=C(C1)COC(=O)C)C(=O)O	DB01414
+[C@@H]12N(C(=C(CS1)Cl)C(=O)O)C(=O)[C@H]2NC(=O)[C@@H](c1ccccc1)N	DB00833	
+[C@@H]12N(C(=C(CS1)C)C(=O)O)C(=O)[C@H]2NC(=O)[C@@H](c1ccc(cc1)O)N	DB01140
+S1[C@H]2N(C(=O)[C@H]2NC(=O)[C@H](N)c2ccccc2)C(=C(C1)C)C(=O)O	DB00567
+S1[C@H]2N(C(=O)[C@H]2NC(=O)[C@H](N)c2ccccc2)C(=C(C1)COC(=O)C)C(=O)O	DB00689
+S1[C@H]2N(C(=O)[C@H]2NC(=O)Cc2sccc2)C(=C(C1)COC(=O)C)C(=O)O	DB00456
+S1[C@H]2N(C(=O)[C@H]2NC(=O)CSc2ccncc2)C(=C(C1)COC(=O)C)C(=O)O	DB01139
+[C@@H]12N(C(=C(CS1)CSc1nnc(s1)C)C(=O)O)C(=O)[C@H]2NC(=O)Cn1cnnn1	DB01327
+S1[C@H]2N(C(=O)[C@H]2NC(=O)[C@H](N)C2=CCC=CC2)C(=C(C1)C)C(=O)O	DB1333

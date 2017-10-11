@@ -1,0 +1,11 @@
+[$([C!$(C([#7])(=O)[!#1!#6])](=[O]))]!@[#7!$([#7][!#1!#6])]	amide 
+[$(C=!@O)]!@[$([O;+0])]	ester
+[#6]!@[N;!$(N=*);!$(N[#6]=[!#6]);!$(N~[!#1!#6])!X4]	amine
+[$(C(=!@O)([#7;+0;D2,D3])!@[#7;+0;D2,D3])]!@[$([#7;+0;D2,D3])]	urea
+[O!$(O[#6]~[!#1!#6])]([#6])!@[#6]	ether
+[#6]=!@[#6]	olefin
+[N;+1;D4]!@[#6]	quaternary_nitrogen	
+[$([n;+0])]-!@[#6!$([#6]=[!#6])]	aromatic_nitrogen-aliphatic_carbon
+[$(N(@-C(=O)))]!@-[#6!$([#6]=[!#6])]	lactam_nitrogen-aliphatic_carbon
+[c]!@[c]	aromatic_carbon-aromatic_carbon
+[$([#7;+0;D2,D3])]-!@[$([S](=[O])=[O])]	sulphonamide	
