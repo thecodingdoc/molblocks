@@ -27,8 +27,8 @@ Open Babel also requires CMake, available for download here
 
 Then, please type the following:
 
-# tar xzvf openbabel-2.3.2.tar.gz (if the file has not been decompressed
-already)
+# tar xzvf openbabel-2.3.2.tar.gz
+(if the file has not been decompressed already)
 # cd openbabel-2.3.2
 # mkdir build
 # cd build
@@ -62,7 +62,7 @@ The next and final step is the compilation of the molBLOCKS suite.
 This is simply accomplished by entering the molblocks directory and
 typing:
 
-# make.
+# make
 
 In case of errors, it might be necessary to edit the path to the
 openbabel library in the Makefile by modifying the following line:
@@ -108,8 +108,7 @@ To run it, please type the following:
 # ../fragment -i cephalosp.smi -r RECAP.txt -n 4 -o cephalosp.frag -e
 # ../fragment -i background.smi -r RECAP.txt -n 4 -o background.frag -e
 #
-# ../analyze -i cephalosp.frag -c 0.7 -o cephalosp.enrichCl07
-             -e background.frag
+# ../analyze -i cephalosp.frag -c 0.7 -o cephalosp.enrichCl07 -e background.frag
 
 The output directory already contains the output files that should be
 obtained after following the steps outlined above.
@@ -126,8 +125,7 @@ To run this example, please type the following:
               -o antineoplastic.frag -e
 # ../fragment -i background.smi -r RECAP.txt -n 4 -o background.frag -e
 #
-# ../analyze -i antineoplastic.frag -c 0.8 -o antineoplastic.enrichCl08
-             -c 0.8 -e background.frag
+# ../analyze -i antineoplastic.frag -c 0.8 -o antineoplastic.enrichCl08 -c 0.8 -e background.frag
 
 -----------------------------------------------------------------------------
 
@@ -140,5 +138,5 @@ Fragments can be directly copied and pasted into the main window of
 Marvin Sketch.
 
 
-Please send an email to Dario Ghersi (dghersi [at] princeton.edu) if you
+Please send an email to Dario Ghersi (dghersi [at] unomaha.edu) if you
 have any questions.
